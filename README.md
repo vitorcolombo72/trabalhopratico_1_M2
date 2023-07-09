@@ -10,6 +10,6 @@ char *s = "adsdeferfAaAaEe";
 char *s = "bB";
 char *s = "a";
 
-depois de muito tempo testando, eu não consegui encontrar um caso que não funcionasse. Não consegui dar submit no leetcode, fica dando
+não encontrei um caso que não funcione, com certeza deve ter. Não consegui dar submit no leetcode, fica dando
 runtime error e sei que o código tá muito muito longe de ser um código otimizado, estou entregando esse porque ele é 100% da minha autoria, mas
 sei que tem soluções bem melhores e já to estudando a lógica delas.
